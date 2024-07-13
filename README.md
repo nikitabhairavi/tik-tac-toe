@@ -1,2 +1,3 @@
 # tik-tac-toe
-Simple React Native App
+
+create a simple tik tac toe app with react native
