@@ -1,3 +1,3 @@
 # tik-tac-toe
 
-create a simple tik tac toe app with react native
+step1: init react native typescript app with the command npx create-expo-app --template
